@@ -37,7 +37,6 @@ Business student turned builder, working where **business, data and product** me
 |---|---|
 | **[Flowest](#)** | Vertical SaaS for local businesses, currently piloting with 10 businesses. |
 | **[UniBook](#)** | Peer-to-peer marketplace for university students to buy and sell used books and notes. Built solo: product, development, market research and marketing. |
-| **[Project name](#)** | *Short description — add a new project here.* |
 
 ## 📫 Contact
 
